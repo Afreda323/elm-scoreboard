@@ -1,3 +1,3 @@
 ## Elm scoreboard app.
 
-Built along with Knowthen course
+Built along with Knowthen course.
