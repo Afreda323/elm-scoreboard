@@ -2,5 +2,5 @@
 
 require("./styles.scss");
 
-var Elm = require('./Main');
+var Elm = require('./App/Main');
 var app = Elm.Main.fullscreen();
